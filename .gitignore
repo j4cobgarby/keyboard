@@ -1,0 +1,8 @@
+*.bak
+*.gbr
+*bak
+*.net
+~*
+*.drl
+
+keyboard1-cache.lib
