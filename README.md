@@ -6,6 +6,12 @@ I'm using KiCAD to create the schematic and PCB design.
 
 I'm using an ATmega32u4 microcontroller to send data to the computer.
 
+## Schematic:
+
+![schematic](schem.png)
+
+## Renders
+
 ![rend3](rend3.png)
 ![rend4](rend4.png)
 ![rend5](rend5.png)
